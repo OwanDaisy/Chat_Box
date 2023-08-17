@@ -1,5 +1,5 @@
 ## Mini Chat Bot
-This repository contains a python script written to build a basic chat box <br>
+This repository contains a python script written to build a basic chat bot <br>
 <br>
 **Language Used** : Python 3.9 <br>
 **Libraries Used** : Transformers, accelerate, einops, torch <br>
